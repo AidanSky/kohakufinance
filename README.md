@@ -1,6 +1,6 @@
-# Sky Finance
+# Kohaku Finance
 
-Sky Finance is a web application for visualizing stock market data, allowing users to graph stock prices, calculate technical indicators like Simple Moving Average (SMA) and Relative Strength Index (RSI), compare stocks, and analyze percentage changes over customizable date ranges.
+Kohaku Finance is a web application for visualizing stock market data, allowing users to graph stock prices, calculate technical indicators like Simple Moving Average (SMA) and Relative Strength Index (RSI), compare stocks, and analyze percentage changes over customizable date ranges.
 
 This app was made by a novice and should not be used for reliable market information. It is currently in debug mode, and likely contains many bugs and malpractices.
 
@@ -42,7 +42,7 @@ Nothing on this website should be interpreted as advice. This was made for educa
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/sky-finance.git
+   git clone https://github.com/AidanSky/kohakufinance.git
    cd sky-finance
    ```
 

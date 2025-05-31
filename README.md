@@ -43,7 +43,7 @@ Nothing on this website should be interpreted as advice. This was made for educa
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/AidanSky/kohakufinance.git
-   cd sky-finance
+   cd kohakufinance
    ```
 
 2. **Create a Virtual Environment**:
